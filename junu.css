@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: radial-gradient(blue,black,red);
+    height: 500px;
+    width: 100%;
+}
+.video{
+    margin:5% 20%;
+}
+.img{
+    margin: 7%;
+}

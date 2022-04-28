@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.baby{
+    width: 100%;
+
+}
+.baby img{
+    width: 100%;
+}
+.head h1{
+    margin: 7% 15%;
+    color: red;
+}
